@@ -21,8 +21,7 @@ The codes are for the following manuscript:
 
 * The **Figure_2.py** code reads the CCFs computed using channel 4000 as the virtual source. 
 <p align="center">
-<img src="https://github.com/lviens/2022_DAS_Tomography
-/blob/main/Figures/Figure_2.png" width=75%/>
+<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_2.png" width=75%/>
 </p>
 <br/>
 <br/>
