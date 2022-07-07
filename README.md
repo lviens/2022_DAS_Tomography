@@ -26,9 +26,23 @@ The codes are for the following manuscript:
 <br/>
 <br/>
 
-* The **Reproduce_Fig_2.py** code shows theACFs computed from the 103 earthquakes bandpass filtered between 10 and 20 Hz at channels (a) 5000 and (b) 7000. (c--d) Same as (a--b) for the data bandpass filtered between 15 and 30 Hz.  In (a--d), the ACFs are sorted by increasing dynamic peak strain values, which are computed after bandpass filtering the strain waveforms in their respective frequency bands. (e--f) Dynamic peak strains after bandpass filtering the earthquake waveforms between 10-20 Hz and 15-30 Hz at channels 5000 and 7000, respectively.
+* The **Figure_3.py** code shows 
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_3.png" width=75%/>
+</p>
+<br/>
+<br/>
+
+* The **Figure_5.py** code shows 
+<p align="center">
+<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_5.png" width=75%/>
+</p>
+<br/>
+<br/>
+
+* The **Figure_6.py** code shows d 
+<p align="center">
+<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_6.png" width=75%/>
 </p>
 <br/>
 <br/>
