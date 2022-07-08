@@ -21,7 +21,6 @@ The codes are for the following manuscript:
 
 * The **Figure_2.py** code plots the stacked CCFs computed after applying 1-bit normalisation to the continuous data recorded by all channels between virtual source 4000 and channel 4400 (Figure 2a). All the waveforms are bandpass filtered between 0.25 and 5 Hz.  A dispersion image is obtained from the causal part of the CCFs with a slant-stack algorithm  and is shown in Figure 2b. The black dots show the selected phase velocity dispersion points used to perform the inversion.
 
-<hr width="50%" color="grey" size="50px" align="center" />
 
 <p align = "center"><b>Figure 2</b></p>
 <p align="center">
@@ -29,7 +28,7 @@ The codes are for the following manuscript:
 </p>
 <br/>
 <br/>
-  <HR align=center size=8 width="100%">
+  <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_3.py** code shows the stacked CCFs computed  with (Figure 3a) and  without (Figure 3b) applying 1-bit normalisation to the continuous data recorded by all channels between virtual source 4000 and channel 4400. All the waveforms are bandpass filtered between 0.25 and 5 Hz. (Figure 3c illustrates the dispersion image obtained from the CCFs shown in Figure 3a together with the selected phase dispersion points (black dots). Figure 3d  is the same as Figure 3c for the CCFs shown in Figure 2b. The white lines depicts the first 10 spatial aliasing lines (i.e., Equation 2 of the paper).
 <p align = "center">**Figure 3**</p>
@@ -39,6 +38,7 @@ The codes are for the following manuscript:
 
 <br/>
 <br/>
+  <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_5.py** code shows 
 <p align="center">
@@ -46,6 +46,7 @@ The codes are for the following manuscript:
 </p>
 <br/>
 <br/>
+  <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_6.py** code shows d 
 <p align="center">
