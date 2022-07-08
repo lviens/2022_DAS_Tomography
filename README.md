@@ -22,7 +22,7 @@ The codes are for the following manuscript:
 * The **Figure_2.py** code plots the stacked CCFs computed after applying 1-bit normalisation to the continuous data recorded by all channels between virtual source 4000 and channel 4400 (Figure 2a). All the waveforms are bandpass filtered between 0.25 and 5 Hz.  A dispersion image is obtained from the causal part of the CCFs with a slant-stack algorithm  and is shown in Figure 2b. The black dots show the selected phase velocity dispersion points used to perform the inversion.
 
 
-<p align = "center"><b><big>Figure 2</big></b></p>
+<p align = "center"><big><b>Figure 2</b></big></p>
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_2.png" width=75%/>
 </p>
