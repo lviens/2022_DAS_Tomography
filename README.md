@@ -27,10 +27,13 @@ The codes are for the following manuscript:
 <br/>
 
 * The **Figure_3.py** code shows the stacked CCFs computed  with (Figure 3a) and  without (Figure 3b) applying 1-bit normalisation to the continuous data recorded by all channels between virtual source 4000 and channel 4400. All the waveforms are bandpass filtered between 0.25 and 5 Hz. (Figure 3c illustrates the dispersion image obtained from the CCFs shown in Figure 3a together with the selected phase dispersion points (black dots). Figure 3d  is the same as Figure 3c for the CCFs shown in Figure 2b. The white lines depicts the first 10 spatial aliasing lines (i.e., Equation 2 of the paper).
+<figure>
 <p align="center">
-<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_3.png" width=75%/>
+ <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_3.png" width=75%/>
  <figcaption>Caption goes here</figcaption>
 </p>
+</figure>
+
 <br/>
 <br/>
 
