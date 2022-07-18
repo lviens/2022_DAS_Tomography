@@ -50,7 +50,7 @@ The codes are for the following manuscript:
 <br/>
   <HR align=center size=8 width="100%" color="grey" >
 
-* The **Figure_6.py** code shows the simulations that we performed in step gradient media. Figure 6a displays the velocity models for two constant $V_S$ step gradients ($\Delta V_S/\Delta z={1,\ 2} \ s^{-1}$). (b) Theoretical DCs for the two velocity models shown in (a) using same colour code. (c) Theoretical dispersion image calculated from  horizontal strain waveforms excited by an horizontal force and using the velocity model with a gradient of $\Delta V_S/\Delta z=$1 $s^{-1}$. The amplitude of the energy is normalised between 0 and 1 and the DCs from (b) are shown by the  black lines.
+* The **Figure_6.py** code shows the simulations that we performed in step gradient media. Figure 6a displays the velocity models for two constant $V_S$ step gradients ($\Delta V_S/\Delta z={1,\ 2} \ s^{-1}$). (b) Theoretical DCs for the two velocity models shown in (a) using same colour code. (c) Theoretical dispersion image calculated from  horizontal strain waveforms excited by an horizontal force and using the velocity model with a gradient of $\Delta V_S/\Delta z=1\ s^{-1}$. The amplitude of the energy is normalised between 0 and 1 and the DCs from (b) are shown by the  black lines.
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_6.png" width=75%/>
 </p>
