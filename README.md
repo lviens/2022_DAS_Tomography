@@ -68,4 +68,11 @@ The codes are for the following manuscript:
 <br/>
   <HR align=center size=8 width="100%" color="grey" >
 
-
+* The **Figure_10.py** code displays the velocity model (Figure 10b) together with the strain waveforms of a Mw 3.7 earthquake bandpass filtered between 1.5 and 5 Hz  (Figure 10a). Note that the frequency content is slightly different from that in the paper (i.e., 2-8 Hz) as data were downsampled to 10 Hz to be uploaded on Github. Direct P- and S-waves arrive around 15 s and 25 s after the origin time, respectively. Regions where surface waves (SW) are locally generated are shown by the vertical red arrows.  Figure 10b shows a zoom on the shallow part of the inverted velocity model. The red arrows correspond to the regions where surface waves are generated.
+<p align = "center"> <b>Figure 10</b> </p>
+<p align="center">
+<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_10.png" width=75%/>
+</p>
+<br/>
+<br/>
+  <HR align=center size=8 width="100%" color="grey" >
