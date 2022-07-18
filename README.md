@@ -22,7 +22,6 @@ The codes are for the following manuscript:
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_2.png" width=75%/>
 </p>
 <br/>
-<br/>
   <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_3.py** code shows the stacked CCFs computed  with (Figure 3a) and  without (Figure 3b) applying 1-bit normalisation to the continuous data recorded by all channels between virtual source 4000 and channel 4400. All the waveforms are bandpass filtered between 0.25 and 5 Hz. (Figure 3c illustrates the dispersion image obtained from the CCFs shown in Figure 3a together with the selected phase dispersion points (black dots). Figure 3d  is the same as Figure 3c for the CCFs shown in Figure 2b. The white lines depicts the first 10 spatial aliasing lines (i.e., Equation 2 of the paper).
@@ -31,8 +30,6 @@ The codes are for the following manuscript:
 <p align="center">
   <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_3.png" width=75%/>
 </p>
-
-<br/>
 <br/>
   <HR align=center size=8 width="100%" color="grey" >
 
@@ -42,7 +39,6 @@ The codes are for the following manuscript:
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_5.png" width=75%/>
 </p>
 <br/>
-<br/>
   <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_6.py** code shows the simulations that we performed in step gradient media. Figure 6a displays the velocity models for two constant $V_S$ step gradients ($\Delta V_S/\Delta z={1,\ 2} \ s^{-1}$). (b) Theoretical DCs for the two velocity models shown in (a) using same colour code. (c) Theoretical dispersion image calculated from  horizontal strain waveforms excited by an horizontal force and using the velocity model with a gradient of $\Delta V_S/\Delta z=1\ s^{-1}$. The amplitude of the energy is normalised between 0 and 1 and the DCs from (b) are shown by the  black lines.
@@ -50,7 +46,6 @@ The codes are for the following manuscript:
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_6.png" width=75%/>
 </p>
-<br/>
 <br/>
   <HR align=center size=8 width="100%" color="grey" >
 
@@ -60,7 +55,6 @@ The codes are for the following manuscript:
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_7.png" width=75%/>
 </p>
 <br/>
-<br/>
   <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_10.py** code displays the velocity model (Figure 10b) together with the strain waveforms of a Mw 3.7 earthquake bandpass filtered between 1.5 and 5 Hz  (Figure 10a). Note that the frequency content is slightly different from that in the paper (i.e., 2-8 Hz) as data were downsampled to 10 Hz to be uploaded on Github. Direct P- and S-waves arrive around 15 s and 25 s after the origin time, respectively. Regions where surface waves (SW) are locally generated are shown by the vertical red arrows.  Figure 10b shows a zoom on the shallow part of the inverted velocity model. The red arrows correspond to the regions where surface waves are generated.
@@ -68,6 +62,5 @@ The codes are for the following manuscript:
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_10.png" width=75%/>
 </p>
-<br/>
 <br/>
   <HR align=center size=8 width="100%" color="grey" >
