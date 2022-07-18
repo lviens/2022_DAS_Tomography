@@ -1,4 +1,4 @@
-# Python codes to reproduce the results of Understanding surface-wave modal content for high-resolution imaging of submarine sediments with Distributed Acoustic Sensing
+# Python codes for `Understanding surface-wave modal content for high-resolution imaging of submarine sediments with Distributed Acoustic Sensing'
 
 The codes are for the following manuscript:
 - Viens L., M. Perton, Z. J. Spica, K. Nishida, T. Yamada, S. Shinohara, Understanding surface-wave modal content for high-resolution imaging of submarine sediments with Distributed Acoustic Sensing ([Preprint link](https://eartharxiv.org/repository/view/3266/))
@@ -11,7 +11,7 @@ The codes are for the following manuscript:
 
 
 * The **Data** folder contains:
-  - The data to reproduce Figures 2-4.
+  - The data to reproduce the figures.
   
 
 * The **Figures** folder contains 6 figures that can be plotted with the 4 codes. 
