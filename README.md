@@ -51,8 +51,21 @@ The codes are for the following manuscript:
   <HR align=center size=8 width="100%" color="grey" >
 
 * The **Figure_6.py** code shows the simulations that we performed in step gradient media. Figure 6a displays the velocity models for two constant $V_S$ step gradients ($\Delta V_S/\Delta z={1,\ 2} \ s^{-1}$). (b) Theoretical DCs for the two velocity models shown in (a) using same colour code. (c) Theoretical dispersion image calculated from  horizontal strain waveforms excited by an horizontal force and using the velocity model with a gradient of $\Delta V_S/\Delta z=1\ s^{-1}$. The amplitude of the energy is normalised between 0 and 1 and the DCs from (b) are shown by the  black lines.
+<p align = "center"> <b>Figure 6</b> </p>
 <p align="center">
 <img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_6.png" width=75%/>
 </p>
 <br/>
 <br/>
+  <HR align=center size=8 width="100%" color="grey" >
+
+* The **Figure_7.py** code shows examples of the inverted velocity models. Figure 7a shows the selected dispersion points (grey dots) and inverted DCs (black lines) for four sections along the cable. The virtual source number is indicated on top of each subplot. (b) Inverted $V_S$ velocity model (black) for the four sections shown in (a). $V_S$ gradient values and lines computed by fitting the inverted 1D $V_S$ models between the ocean floor and 400 m depth with a straight line are shown in blue.  
+<p align = "center"> <b>Figure 7</b> </p>
+<p align="center">
+<img src="https://github.com/lviens/2022_DAS_Tomography/blob/main/Figures/Figure_7.png" width=75%/>
+</p>
+<br/>
+<br/>
+  <HR align=center size=8 width="100%" color="grey" >
+
+
