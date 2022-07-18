@@ -4,8 +4,7 @@ The codes are for the following manuscript:
 - Viens L., M. Perton, Z. J. Spica, K. Nishida, T. Yamada, and S. Shinohara (Submitted to GJI), Understanding surface-wave modal content for high-resolution imaging of submarine sediments with Distributed Acoustic Sensing 
 
 ## Description:
-* The **Codes** folder contains the six Python codes to reproduce the main figures of the paper (i.e., Figures 2, 3, 5, 6 ,7, and 10). Please contact Loï
-c Viens for the codes and data to reproduce the remaining figures.
+* The **Codes** folder contains the six Python codes to reproduce the main figures of the paper (i.e., Figures 2, 3, 5, 6 ,7, and 10). Please contact Loïc Viens (lviens@umich.edu) for the codes and data to reproduce the remaining figures.
 
 * The **Data** folder contains the data to reproduce the figures.
   
